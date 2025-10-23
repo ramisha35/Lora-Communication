@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- ESP32 USB CDC -->
+    <usb-device vendor-id="12346" product-id="32769" />
+    <!-- Generic USB Serial -->
+    <usb-device class="255" subclass="0" protocol="0" />
+    <!-- CH340/CH341 -->
+    <usb-device vendor-id="6790" />
+    <!-- CP210x -->
+    <usb-device vendor-id="4292" />
+    <!-- FTDI -->
+    <usb-device vendor-id="1027" />
+</resources>
